@@ -4,8 +4,7 @@ Programa de linha de comando (CLI) em Python que recebe um CEP, consulta a API p
 
 ## 📺 Demonstração
 
-> 🎬 *Demonstração em breve.*
-<!-- Quando tiver o print/GIF, salve o arquivo na pasta (ex: demo.png) e troque a linha acima por: ![Demonstração do programa](demo.png) -->
+![Demonstração do programa](demo.gif)
 
 ```
 === Consulta de CEP ===
